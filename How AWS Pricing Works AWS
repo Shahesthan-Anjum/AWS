@@ -19,6 +19,21 @@ This includes services, tools, and resources to organize and track cost and usag
 enable better planning through budgeting and forecasts, and further lower cost with resources and pricing optimizations. To learn how you can optimize 
 and save costs today,
 
+Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service.
+It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications by translating names
+like www.example.com into the numeric IP addresses like 192.0.2.1 that computers use to connect to each other. Amazon Route 53 is fully compliant with IPv6 as well.
+
+Amazon Route 53 effectively connects user requests to infrastructure running in AWS – such as Amazon EC2 instances, Elastic Load Balancing load balancers, 
+or Amazon S3 buckets – and can also be used to route users to infrastructure outside of AWS. You can use Amazon Route 53 to configure DNS health checks,
+then continuously monitor your applications’ ability to recover from failures and control application recovery with Route 53 Application Recovery Controller.
+
+Amazon Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types, 
+including Latency Based Routing, Geo DNS, Geoproximity, and Weighted Round Robin—all of which can be combined with DNS Failover in order to enable a variety of 
+low-latency, fault-tolerant architectures. Using Amazon Route 53 Traffic Flow’s simple visual editor, you can easily manage how your end-users are routed to your 
+application’s endpoints—whether in a single AWS region or distributed around the globe. Amazon Route 53 also offers Domain Name Registration – you can purchase
+and manage domain names such as example.com and Amazon Route 53 will automatically configure DNS settings for your domains.
+
+
 
 
 
@@ -26,8 +41,12 @@ and save costs today,
 
 
 MCQ:
-AWS Trustor Advisor service provides infrastructure security optimization recommendations.
-Amazon Cloudwatch service allows for the collection and tracking of metrics for AWS services.
-A company needs to know which user was responsible for terminating several critical Amazon Elastic Compute Cloud (Amazon EC2) Instances. 
-Where can the customer find this information?Amazon Cloud trails
+1`AWS Trustor Advisor service provides infrastructure security optimization recommendations.
+2`Amazon Cloudwatch service allows for the collection and tracking of metrics for AWS services.
+3`A company needs to know which user was responsible for terminating several critical Amazon Elastic Compute Cloud (Amazon EC2) Instances. 
+4`Where can the customer find this information?(Amazon Cloud trailslogs)
+5`Which service should an administrator use to register a new domain name with AWS? Amazon Route 53
+6-What is the value of having AWS Cloud services accessible through an Application Programming Interface (API)?Cloud resources can be managed programmatically
+
+
 
