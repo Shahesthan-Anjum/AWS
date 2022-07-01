@@ -1,0 +1,33 @@
+AWS has the services to help you build sophisticated applications with increased flexibility, scalability and reliability.
+Whether you're looking for compute power, database storage, content delivery, or otherfunctionality, with AWS you pay only for the individual services you need, 
+for as long as you use them,without complex licensing. AWS offers you a variety of pricing models for over 160 cloud services.
+You only pay for the services you consume, and once you stop using them, there are no additional costs or termination fees.
+
+###There are three fundamental drivers of cost with AWS: compute, storage, and outbound data transfer.
+In most cases, there is no charge for inbound data transfer or for data transfer between other AWS services within the same Region. There are some exceptions, 
+so be sure to verify data transfer rates before beginning. Outbound data transfer is aggregated across services and then charged at the outbound data transfer rate.
+This charge appears on the monthly statement as AWS Data Transfer Out. The more data you transfer, the less you pay per GB. For compute resources,
+you pay hourly from the time you launch a resource until the time you terminate it, unless you have made a reservation for which the cost is agreed upon beforehand. 
+For data storage and transfer, you typically pay per GB.Except as otherwise noted, AWS prices are exclusive of applicable taxes and duties, including VAT and
+sales tax. For customers with a Japanese billing address, use of AWS is subject to Japanese Consumption Tax.
+
+cost optimization
+The cloud allows you to trade fixed expenses (such as data centers and physical servers) for variable expenses, and only pay for IT as you consume it.
+And, because of the economies of scale, the variable expenses are much lower than what you would pay to do it yourself. Whether you started in the cloud, or
+you are just starting your migration journey to the cloud, AWS has a set of solutions to help you manage and optimize your spend.
+This includes services, tools, and resources to organize and track cost and usage data, enhance control through consolidated billing and access permission, 
+enable better planning through budgeting and forecasts, and further lower cost with resources and pricing optimizations. To learn how you can optimize 
+and save costs today,
+
+
+
+
+
+
+
+MCQ:
+AWS Trustor Advisor service provides infrastructure security optimization recommendations.
+Amazon Cloudwatch service allows for the collection and tracking of metrics for AWS services.
+A company needs to know which user was responsible for terminating several critical Amazon Elastic Compute Cloud (Amazon EC2) Instances. 
+Where can the customer find this information?Amazon Cloud trails
+
