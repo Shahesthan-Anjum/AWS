@@ -1,0 +1,51 @@
+What are the three authentication options offered by AWS?
+Username and password, certificate, access keys>>>>>>>>>>
+Access monitoring, password, locking systems
+Access keys, system monitoring, password
+Question 2 of 10
+Which is a recommended way to protect Access Keys?
+Train developers how to better protect their access keys.
+Define IAM policies.
+Enable CloudWatch notifications.
+All of the above.>>>>>>>>>>>
+Question 3 of 10
+Which is Amazon Web Services' newest encryption tool?
+AWS Identity and Access Management
+Amazon Elastic Block Storage Encryption>>>>>>>>>>>
+Amazon S3
+Question 4 of 10
+Why is it important to enforce a strict password policy for your AWS account?
+Amazon will close your account if you get hacked.>>>>
+Your mom said so.>>>>>>
+It's important to protect your data.
+A and B.
+Question 5 of 10
+What is the practice of distributing responsibility among multiple people so that no one person has full control of everything?
+Responsible distribution
+Separation of duty>>>>>>>>>>>>>>>
+Separation of responsibility
+Question 6 of 10
+Which of these Amazon's tools is for monitoring?
+CloudWatch>>>>>>>>>>>
+CloudFront
+CloudSearch
+Question 7 of 10
+True or False: A root account credential can be used to log into your AWS account or buy a book on Amazon.com.
+True>>>>>>>>>
+False
+Question 8 of 10
+What can happen if a hacker gets a hold of your account key?
+Accounts can be hacked.
+Servers may be terminate
+Data may be deleted.
+All of the above.>>>>>>>>>>
+Question 9 of 10
+What is AWS Multi-Factor Authentication (MFA)?
+Taking multiple factors into consideration when creating an AWS account.
+A process that authenticates accounts by approving the background factors of each user.
+A practice that adds increased security to an account by using multiple forms of authentication.>>>>>>>>>
+Question 10 of 10
+Which storage service provides encryption services for both data in flight and data at rest?
+DynamoDB
+Relational Database Service (RDS)
+Simple Storage Service (S3)>>>>>
