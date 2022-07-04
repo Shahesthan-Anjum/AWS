@@ -1,0 +1,103 @@
+Q1. AWS stands for __.
+A. Amazon Web Services
+B. Amazon World Services
+C. Active Web Services
+D. None of the above
+Q2. Which is a fully managed desktop computing service?
+A. Amazon WorkSpaces
+B. Amazon Glacier Brainly
+C. AMI
+D. None of the above
+Q3. What is AWS?
+A. it is a collection of remote computing services also known as a cloud computing platform.
+B. The popularization of the Internet actually enabled most cloud computing systems.
+C. Amazon Transfer Acceleration
+D. None of the above
+Q4. Which of the following services are free in AWS?
+A. AWS CodePipeline
+B. AWS CodeCommit
+C. AWS CodeBuild
+D. All of the above
+Q5. What is VPC(Virtual Private Cloud)?
+A. It allows to customise your networking configuration.
+B. It throttles the data transfer up to 300 percent using optimized network paths and Amazon Content
+Delivery Network.
+C. It delivers the content directly from the origin server.
+D. None of the above
+Q6. Which of the following is an essential concept related to Cloud?
+A. Reliability
+B. Abstraction
+C. Productivity
+D. All of the mentioned
+Q7. What type of computing technology refers to services and applications that
+typically run on a distributed network through virtualised resources?
+A. Distributed Computing
+B. Cloud Computing
+C. Soft Computing
+D. Parallel Computing
+Q8. EC2 Machine types define which of the following?
+A. AWS Region
+B. Core Count
+C. User Location
+D. None of the above
+Q9. What is the name of AWS CEO or Chief?
+A. Jeff Bezos
+B. Lisa Su
+C. Denise Morrison
+D. None of the above
+Q10. What is a Redshift?
+A. Redshift is a big data warehouse product.
+B. A bigger RDS instance
+C. Both A and B
+D. None of the above
+Q11. Is the property of broadcast or multicast supported by Amazon VPC?
+A. Yes
+B. No
+Q12. What are key-pairs in AWS?
+A. secure login information for your virtual machines
+B. scale as per the predictable traffic patterns
+C. access management to control access to your AWS resources
+D. None of the above
+Q13. ____ is a function that allows you to provision and launch new instances whenever
+there is a demand.
+A. Auto-scaling
+B. Geo-targeting
+C. Cloud Formation
+D. None of the above
+Q14. What does an AMI include?
+A. Launch permissions decide which AWS accounts can avail the AMI to launch instances.
+B. A template for the root volume for the instance.
+C. A block device mapping that determines the volumes to attach to the instance when it is launched.
+D. All of the above
+Q15. S3 stands for ____.
+A. Simple Storage Service
+B. Simple Storage Science
+C. Side Storage Service
+D. None of the following
+Q16. In which year, Amazon Web Services founded?
+A. 2005
+B. 2006
+C. 2007
+D. 2008
+Q17. EC2 stands for ?
+A. Elastic Configuration Cloud
+B. Elastic Cloud Configuration
+C. Elastic Cloud Compute
+D. Elastic Compute Cloud
+Q18. Which of the following is not used for load balancing?
+A. Zeus
+B. HAProxy
+C. Nginx
+D. OpenSwan
+Q19. Which of the following is a web service that manages the memory cache in the
+cloud?
+A. Amazon Elastic Cache
+B. Amazon RDS
+C. RDMS on EC2
+D. Auto Scaling
+Q20. Which of the following allows you to create instances of the MySQL database to
+support your Web sites?
+A. Amazon Elastic Compute Cloud
+B. Amazon Simple Queue Service
+C. Amazon Relational Database Service
+D. Amazon Simple Storage System
