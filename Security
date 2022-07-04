@@ -1,0 +1,26 @@
+1.Your company has updated its security policies to include cloud workloads as well as those running on-premises.
+Your manager would like a report of which technologies will require configuration changes. 
+Which of the following will not be included in the report because they are the responsibility of AWS?
+--- Host operating systems 
+2.Which of the below are you responsible for managing when storing data in S3
+-- Who has access to data you stored on the S3 Service 
+ Who has access to the S3 Service 
+ %%%%Under the Shared Responsibility Model for managed services, AWS takes responsibility for managing all the hardware (including access, patching and other maintenance).
+ When it comes to S3, the customer is responsible for all aspects of the data being stored on S3, and who has access to manage the S3 service for that account
+ 3.Which of the following AWS services controls Authentication and Authorization within an AWS account?y
+ ------IAM
+ IAM (Identity and Access Management) controls Authentication and Authorization within an AWS account.
+ Security Groups and Access Control Lists are tools within IAM that can help make that control easier to manage.
+ AWS Shield is a separate service that helps protect resources from external attacks.
+ 4.How can the AWS Management console be protected against unauthorized access.
+ -----Use MFA -----With MFA enabled, when a user signs in to an AWS Management Console, they will be prompted for their user name and password.
+ 5.Which of the below is true about root accounts on AWS?
+ -The root user has full access to everything in the AWS account 
+ The root user should not be used for day to day activities
+ $$$$The root user has access to absolutely everything in an AWS account, and therefore should not be used for normal day to day activities and be reserved for when things go wrong. AWS will never ask you for any usernames 
+ or passwords as part of a support request – so any request to do so should be treated with suspicion. The root user cannot be disabled
+ 6.Which of the following are components of the AWS Risk and Compliance Program?
+  Control Environment 
+ Risk Management 
+ Information Security 
+ 7.
