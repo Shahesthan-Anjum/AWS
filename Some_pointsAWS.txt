@@ -1,0 +1,29 @@
+
+1.This infrastructure includes AWS Regions, Availability Zones, and edge locations.
+2.Aws regirn is always related to cloudfront.
+3.Amazon Glacier to accsess archive files. 
+4.serverless compute service always lambda,
+  Lambda allows you to run a variable and intermittent code.
+5.private subnet is always NAT Gatway.
+  public subnet is always Internet Gateway.
+6.You are responsible only for the optimization of your application that uses RDS
+7.EC2 and Lambda are AWS Compute Services.
+8.Trusted Advisor provides real time guidance to help you provision your resources following AWS best practices..
+9.An online resource to help you reduce cost, increase performance, and improve security by optimizing your AWS environment
+10.Access Control Lists let you control access to individual objects within an S3 bucket.
+11.whereas Bucket Policies allow you to control access to entire buckets.
+12.CloudTrail is logging service that logs actions taken by AWS users in your AWS account such as creating/deleting S3 buckets, starting/stopping EC2 stances, etc.
+13.Lightsail is AWS’ Platform-as-a-Service offering.
+14.Redshift is always warehouse,graphic.
+15.dynamonDB is nosql.
+16.globally is always multi-Region
+17.AWS CloudTrail is a service that enables governance, compliance, operational and risk auditing of your AWS account.
+18.Data stored in Glacier is encrypted by default so nothing else needs to be done.
+19.The two types of access are AWS Management Console access and Programmatic Access via the AWS API, the CLI, and the SDKs.
+20.https, then the bucket name, then dot, then the AWS S3 regional endpoint, then slash, then the object name (url structure for object in s3)
+21.CloudFormation supports both JavaScript Object Notation (JSON) and YAML Ain’t Markup Language (aka YAML) for authoring CloudFormation templates.
+22.You should re-create the volume from a snapshot
+23.RDS is your best option: it’s a low-cost, managed database solution.
+24.Trusted Advisor provide best practices and/or or checks on Cost Optimization, Performance, Security, and Fault Tolerance.
+25.Edge location i always cloudfront.
+26.By default, all data stored in S3 is NOT viewable by the public.
