@@ -27,3 +27,18 @@
 24.Trusted Advisor provide best practices and/or or checks on Cost Optimization, Performance, Security, and Fault Tolerance.
 25.Edge location i always cloudfront.
 26.By default, all data stored in S3 is NOT viewable by the public.
+27. VPC allows  Allows you to build a private, virtual network in the AWS cloud. 
+ Offers several layers of security controls.
+ Affords you complete control of network configuration.
+ 28.Edge Locations responsible for?
+ Hosting a Content Delivery Network called CloudFront.
+29. AWS VPC is a component of Networking and Content Delivery .
+30.You have just created a new bucket and uploaded a file into it – will this be automatically viewable by anyone on the internet?
+ No – by default buckets and their contents are private 
+ By default, all data stored in S3 is NOT viewable by the public. If you want a bucket or object to be accessible by the public, 
+ you must explicitly make it so. NAT Gateways and Internet Gateways are needed to allow communications between VPCs and the internet, .
+ but are not required when it comes to S3.
+ 31.Your project manager (PM) tasked you with launching an instance for a web application to be developed for an NGO. The PM is especially interested in using an AWS service that provides predicable monthly pricing, and he expects the instance to have the ability to burst above the baseline level of CPU performance when needed. What AWS service should you use to launch this instance?-lightsail
+ Although EC2 could have been the correct answer, two things are key here: Predicable monthly pricing and instance ability to burst above the baseline level of CPU performance when needed. Lightsail accomplishes that; EC2 is more suitable for consistently high CPU performance, and costs vary according to usage.
+ 32.Elastic Load Balancer type would be best suited to help you host a website-Application
+ 
