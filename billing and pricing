@@ -26,4 +26,21 @@ applied to two of the four Dev instances.
 10.EC2 instances can be purchased in the default on-demand manner, they can be reserved, or you can bid on capacity with spot instances.
 Virtual only iss not a type of EC2 purchase plan.
 11.Amazon DynamoDB and  Amazon RedShift services can be reserved  to gain greater discounts .
-
+12.Que==where you should go to get more details about the AWS EC2 billing activity that took place 3 months ago
+The AWS Cost and Usage report--- tracks your AWS usage and provides estimated charges associated with your AWS account. The report contains line items for each unique combination of AWS product, usage type,
+ and operation that your AWS account uses.
+13.By default, using Consolidated Billing only allows the master account 
+to view the billing information from the member accounts – no access is automatically granted for users in the master account into the member accounts beyond this.
+14.The Free Tier account has a default duration of 1 year.
+15.AWS offers Standard RIs for 1-year or 3-year terms
+16.The AWS Support Basic tier is the free support given to all AWS Accounts. All accounts receive Billing Support, because every customer needs an avenue to lodge disputes, or make requests around their billing. 
+24×7 Support, Architectural Support, and access to a Technical Account Manager are all elements of paid plans.
+17.que-==Your boss has asked you to provide estimated costs associated with the move to the cloud. What tool should you use to find this information?
+Ans-==TCO Calculator is designed to provide cost estimates for cloud services.
+18.On-demand for ad-hoc requirements that cannot be interrupted Reserved instances for steady state predictable usage 
+are good use cases for a specific Amazon EC2 pricing mode.
+19.Que==Which tool can help you to compare the cost of hosting resources in AWS vs the cost of hosting in a traditional data centre?
+ans-Aws TCO Calculator
+exp-The TCO calculators allow you to estimate the cost savings when using AWS and provide a detailed set of reports. Pricing Calculator can be used to estimate potential AWS spend, and AWS Budgets & Billing Alarms can help keep spend under control by alerting you when you breach a threshold
+20.For AWS Enterprise customers, the AWS Concierge is a resource dedicated to answering billing and account questions
+21.Reserved instances have three main pricing models, Standard, Convertible and Scheduled
