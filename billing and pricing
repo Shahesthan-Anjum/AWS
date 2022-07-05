@@ -15,4 +15,15 @@ Enterprise Support plan, which is ideal for business and mission-critical worklo
  Ans--You can launch EC2 instances on demand as needs arise or even automatically 
  exp---The on-demand nature of AWS allows you to save money over traditional data center approaches.
  For example, Auto Scaling in EC2 allows AWS to scale out and scale in resources on demand. This elasticity allows you to pay for just the resources you need.
+7.Que==a startup company with limited revenue growth do to be notified when the monthly bill approaches $2000
+ ans==Setup a CloudWatch billing alarm that triggers an SNS notification to their email address.
+8. Data center security costs and Facility equipment installation need to be included in a total cost of ownership (TCO) analysis? (choose 2)
+9.Que==Your Development team uses four on-demand EC2 instances, and your QA team has 5 reserved instances, only three of which are being used. 
+Assuming all AWS accounts are under a single AWS Organization, how will the Development team’s instances be billed?
+Ans= The Dev team will be billed for two instances at on-demand prices and two instances at the reserved instance price. 
+exp=Assuming all instances are in the same AWS Organization, the reserved instance pricing for the unused QA instances will be
+applied to two of the four Dev instances.
+10.EC2 instances can be purchased in the default on-demand manner, they can be reserved, or you can bid on capacity with spot instances.
+Virtual only iss not a type of EC2 purchase plan.
+11.Amazon DynamoDB and  Amazon RedShift services can be reserved  to gain greater discounts .
 
