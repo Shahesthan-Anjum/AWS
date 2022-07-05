@@ -44,3 +44,18 @@ ans-Aws TCO Calculator
 exp-The TCO calculators allow you to estimate the cost savings when using AWS and provide a detailed set of reports. Pricing Calculator can be used to estimate potential AWS spend, and AWS Budgets & Billing Alarms can help keep spend under control by alerting you when you breach a threshold
 20.For AWS Enterprise customers, the AWS Concierge is a resource dedicated to answering billing and account questions
 21.Reserved instances have three main pricing models, Standard, Convertible and Scheduled
+22.EC2 Reserved Instances offer significant discounts for a contracted term-of-service, of up to 75% off. On-Demand instances are charged equally per-hour, regardless of how long they’re run for. Spot instances are cheaper than On-Demand instances, but aren’t intended for long term use
+23.When performing a total cost of ownership (TCO) analysis between on-premises and the AWS Cloud, which factors are only relevant to on-premises deployments? (choose 2)
+ Facility operations costs 
+ Hardware procurement team 
+24.Why does AWS guarantee your exchange rate with AWS Billing and Cost Management?
+ To ensure that any refund uses the same exchange rate as the original transaction
+25.Cost Explorer can help you in budgeting and planning for your AWS expenditures.
+26.Compute, storage, and data transfer out are all fundamental costs in AWS.
+Data transfer is s not a fundamental cost in AWS
+27.The Developer support plan features access to AWS support during business hours via email. Business and Enterprise support plans allow 24×7 email support. The Basic support plan includes no email support options. Because the question specifies support *only* during business hours, there is only one correct answer.
+28.The paying account should be used for billing purposes only Always enable multi-factor authentication (MFA) on the root account are using AWS Organizations with consolidated billing are the two best practice
+29.A resource group is a collection of resources that share one or more tags (or portions of tags
+
+
+
