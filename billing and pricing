@@ -1,1 +1,18 @@
+1.Both the Business and Enterprise support levels offer a < 4-hour response time in the event of an impaired production system. 
+Developer is < 12-hour response time in case of any system impairment. Basic does not offer any support for system impairment.
+Individual is n3.On-Demand, where you pay for the resources you have used at the end of the billing period, and Reserved, were you commit to paying a certain amount every billing period for a length of time no matter if you used them or not, are the valid EC2 pricing options.ot a real support plan.
+2.CAPEX vs OPEX charging model and Predictable workload types use the Reserved Instance pricing model.
+3.On-Demand, where you pay for the resources you have used at the end of the billing period, and Reserved,
+were you commit to paying a certain amount every billing period for a length of time no matter if you used them or not, are the valid EC2 pricing options.
+On-Demad and Reserved are EC2 Pricing model.
+4.The pay-as-you-go payment plan is billed on an hourly basis, 
+but partial hours are billed for a full hour. Keep in mind that some instances have a per-second billing rate as well.
+5.The Business Support plan is specifically designed for production workloads in AWS. On one end,
+Basic Support is included for all AWS customers, and 
+Developer Support plan is best suited for experimenting or testing in AWS.
+Enterprise Support plan, which is ideal for business and mission-critical workloads.
+6.Que---Why is AWS more economical than traditional data centers for applications with varying compute requirements?
+ Ans--You can launch EC2 instances on demand as needs arise or even automatically 
+ exp---The on-demand nature of AWS allows you to save money over traditional data center approaches.
+ For example, Auto Scaling in EC2 allows AWS to scale out and scale in resources on demand. This elasticity allows you to pay for just the resources you need.
 
