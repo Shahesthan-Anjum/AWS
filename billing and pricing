@@ -56,6 +56,15 @@ Data transfer is s not a fundamental cost in AWS
 27.The Developer support plan features access to AWS support during business hours via email. Business and Enterprise support plans allow 24×7 email support. The Basic support plan includes no email support options. Because the question specifies support *only* during business hours, there is only one correct answer.
 28.The paying account should be used for billing purposes only Always enable multi-factor authentication (MFA) on the root account are using AWS Organizations with consolidated billing are the two best practice
 29.A resource group is a collection of resources that share one or more tags (or portions of tags
+30.Spot allows AWS users to auction off unused reserved and scheduled instance hours to the highest bidder as a way to cut down on unnecessary expense
+31.AWS Support has four levels. Basic is their free entitlement for all AWS Customers. The three paid support plans in order of ascending cost are Developer, Business, and Enterprise. Start-up and Individual do not exist as Support Plans
+32.Reserves instances are available with all upfront, partial upfront, or no upfront (AURI, PURI, and NURI) pricing
+33.AWS Cost Explorer lets you display your spendings across all AWS Service
+34.While On Demand allows a fixed rate payment by the hour or second with no commitment and Reserved provides a capacity reservation, it is the Spot EC2 pricing model that enables bidding on the desired price for instance capacity. By contrast with the other pricing models, Dedicated Hosts consists of an actual physical EC2 server.
+35.Que===Which of the following represent economic advantages of moving to the AWS cloud? (choose 2)
+ Ans==1.Increase efficiencies through automation 
+ 2.Reduce the need to manage infrastructure 
+36.RDS runs on EC2 instances, so much like an EC2 instance, you are charged based on how long the RDS instances are running, how much storage they have provisioned, and the requests they’re processing. Standard monitoring is included for free with RDS instances, although Enhanced Monitoring is available for more information. Data Transfer in to RDS, like most other AWS services, is free
 
 
 
