@@ -65,6 +65,24 @@ Data transfer is s not a fundamental cost in AWS
  Ans==1.Increase efficiencies through automation 
  2.Reduce the need to manage infrastructure 
 36.RDS runs on EC2 instances, so much like an EC2 instance, you are charged based on how long the RDS instances are running, how much storage they have provisioned, and the requests they’re processing. Standard monitoring is included for free with RDS instances, although Enhanced Monitoring is available for more information. Data Transfer in to RDS, like most other AWS services, is free
+37.Which of the following AWS services are free to use?
+ CloudFormation / Auto-Scaling / IAM / VPC / Elastic Beanstalk 
+38.que==You need to complete compute processing tasks and have a window of several months to get them done. You would like to save money over the standard pricing model of EC2. What should you consider?
+   Ans==Spot instance
+exp.Since you have a large window in which to complete the tasks, you might consider spot instance pricing, in which you bid and hope the spot price triggers the compute resources at your price.
+39.The Business and Enterprise support plans, the two most expensive plans, offer 24 X 7 support via phone or chat. Neither of the other support plans (Basic and Developer) offer Phone support. Individual is also not a real support plan
+40.Que==Which of the following is generally not billed for on the AWS platform?
+Ans==Data-in
+41.Why would you use Tags in AWS?==To organize your resources 
+exp==A tag is a label that you or AWS assigns to an AWS resource. You can use tags to organize your resources, and cost allocation tags to track your AWS costs on a detailed level.
+42.Which of the following AWS Support levels offers the assistance of a Technical Account Manager?
+ Enterprise 
+43.Two very popular cost calculators for AWS are TCO Calculator and AWS Simply Monthly Calculator
+44.que==How does the consolidated billing feature of AWS Organizations treat Reserved Instances that were purchased by another account in the organization?
+ans== All accounts in the organization are treated as one account so any account can receive the hourly cost benefit 
+45.que==Which would not be considered a major benefit of IaaS?
+ans== Eliminating security concerns 
+46.AWS provides the largest discount possible when you pay for all your reserved instances up front.
 
 
 
